@@ -2,7 +2,7 @@
 layout: post
 title:  "Wolves Crying for Lambs - A Toolkit Attack on Indian Men's Rights Discourse"
 author: vivek
-categories: [ Atul Subhash, domestic violence, men's rights, india, foreign ]
+categories: [ Atul Subhash, domestic violence, men's rights, india, foreign, NFHS ]
 image: assets/images/blogs/wolf-lamb-weapon/cover.jpg
 beforetoc: You must have seen feminists (smugly) quoting a The Print India article titled "Atul Subhash death is a weapon for men’s rights activists. They don’t care about men’s lives"
 toc: true

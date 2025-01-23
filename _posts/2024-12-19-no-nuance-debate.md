@@ -215,7 +215,8 @@ Did these victim women have wives too?
 Did these victim women bear child with their wives?  
 Did their wives use the child as a weapon?
 
-I have SO MANY questions 😁 Sorry I cannot express all of them without getting banned on X.
+I have SO MANY questions 😁 Sorry I cannot express all of them.
+
 This concludes our fun ride!
 
 ## What do we do now?
