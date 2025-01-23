@@ -5,7 +5,7 @@ description: ""
 logo: 'assets/images/log.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
-#google_analytics: 'UA-46278016-1'
+google_analytics: 'G-0FFBN44KXP'
 #disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -18,7 +18,7 @@ authors:
     display_name: Vivek Ganesan    
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     twitter: https://x.com/vivek_ganesan
-    description: "An Independent researcher"
+    description: "An independent researcher"
 
 defaults:
   - scope:

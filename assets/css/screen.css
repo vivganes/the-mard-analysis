@@ -4,7 +4,9 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/ 
 */
 @media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
+    html { 
+        font-size:18px;
+     } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
 .mainheading {
@@ -12,12 +14,12 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #006bab;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #035282;
     text-decoration: none;
 }
 
@@ -337,7 +339,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #006bab;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -525,8 +527,8 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #02B875;
-    color: #1C9963;
+    border-color: #0275B8;
+    color: #1C6399;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
@@ -535,8 +537,8 @@ ul.tags li a:hover {
 }
 
 .btn.subscribe {
-    background-color: #1C9963;
-    border-color: #1C9963;
+    background-color: #1C6399;
+    border-color: #1C6399;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     border-radius: 30px;
@@ -581,8 +583,8 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #1C9963;
-    border: 1px solid #1C9963;
+    background-color: #1C6399;
+    border: 1px solid #1C6399;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     font-size: 0.85rem;
@@ -685,7 +687,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: Merriweather, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .article-post .h1,
@@ -711,7 +713,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: Merriweather, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
 }
 
@@ -898,4 +900,187 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #000;
+        color: #e0e0e0;
+    }
+
+    .share, .share a {
+        color: rgba(255, 255, 255, .44);
+        fill: rgba(255, 255, 255, .44);
+    }
+
+    .section-title h2 {
+        border-bottom-color:rgba(245, 238, 238, 0.125);
+    }
+
+    .section-title span {
+        border-bottom-color: #fff;
+    }
+
+    .mediumnavigation {
+        background: rgba(26, 26, 26, .97);
+        box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .5);
+    }
+
+    a {
+        color: #66b3ff;
+    }
+
+    a:hover {
+        color: #99ccff;
+    }
+
+    .article-post {
+        color: #e0e0e0;
+    }
+
+    pre {
+        background: #2d2d2d;
+        border-color: #404040;
+        color: #e0e0e0;
+    }
+
+    .footer {
+        background: #1a1a1a;
+        border-top: 1px solid rgba(255, 255, 255, .05) !important;
+        color: rgba(255, 255, 255, .6);
+    }
+
+    h2.card-title{
+        color:#fff;
+    }
+
+    .svgIcon-use{
+        stroke: #fff;
+    }
+
+    span.post-name a, span.post-read-more a:hover, span.post-date {
+        color: #aaa;
+    }
+
+    .card-footer {
+        background-color: #000 !important;
+    }
+
+    a.text-dark{
+        color:#ccc!important
+    }
+
+    a.text-dark:hover{
+        color:#fff!important
+    }
+
+    .modal-title{
+        color:#000;
+    }
+
+    .btn.follow {
+        color: #6faccf;
+        border-color: #6faccf;
+    }
+
+    .mediumnavigation .form-control {
+        color: #000;
+        background-color: #e0e0e0;;
+    }
+
+    .form-control {
+        background-color: #2d2d2d;
+        border-color: #404040;
+        color: #e0e0e0;
+    }
+
+    .form-control::-webkit-input-placeholder {
+        color: rgba(255, 255, 255, .5);
+    }
+
+    .listfeaturedtag {
+        border-color: #313131;
+        background: #000000;
+    }
+
+    .card {
+        background-color: #000;
+    }
+
+    .card-group > .card{
+        border-color: #313131;
+    }
+
+    .graybg {
+        background-color: #242424;
+    }
+
+    blockquote {
+        border-left: 4px solid #66b3ff;
+        color: rgba(255, 255, 255, .6);
+    }
+
+    .alertbar {
+        background-color: #2d2d2d;
+    }
+
+    .alertbar input[type="email"] {
+        background-color: #1a1a1a;
+        border-color: #404040;
+        color: #e0e0e0;
+    }
+    
+    .dropdown-menu {
+        background-color: #2d2d2d;
+        border-color: #404040;
+    }
+
+    .dropdown-item {
+        color: #e0e0e0;
+    }
+
+    .dropdown-item:hover {
+        background-color: #404040;
+        color: #ffffff;
+    }
+
+    h1, h2, h3, h4, h5, h6,
+    .h1, .h2, .h3, .h4, .h5, .h6 {
+        color: #e0e0e0;
+    }
+
+    .listrecent h2.card-title,
+    .listfeaturedtag h2.card-title {
+        color: #e0e0e0;
+    }
+
+    .listfeaturedtag h4.card-text,
+    .listrecent h4.card-text {
+        color: rgba(255, 255, 255, .6);
+    }
+
+    ul.tags li a {
+        background: rgba(255, 255, 255, .1);
+        color: rgba(255, 255, 255, .8);
+    }
+
+    .bd-search {
+        color: #e0e0e0
+    }
+
+    ul.tags li a:hover {
+        background: rgba(255, 255, 255, .15);
+    }
+
+    .bottompagination span.navigation {
+        border-top: 1px solid #404040;
+    }
+
+    .link-dark {
+        color: rgba(255, 255, 255, .8);
+    }
+
+    .white-bg-on-dark{
+        background-color: #fff;
+    }
 }
