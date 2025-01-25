@@ -11,7 +11,7 @@ toc: true
 
 Have you heard feminists (smugly) quoting that 30% of Indian women face domestic violence?
 
-![](/assets/images/blogs/nfhs-one-sided/newspaper-dv.jpg)
+![News article about Domestic violence](/assets/images/blogs/nfhs-one-sided/newspaper-dv.jpg)
 
 Most of these statistics come from NFHS - National Family Health Survey.
 
@@ -29,7 +29,7 @@ In fact, it is a very useful survey, except for the sneaky inclusions that seem 
 
 In the third edition of NFHS, the committee adds a new 'module' of questions to the Women's questionnaire.  All are about domestic violence.
 
-![](/assets/images/blogs/nfhs-one-sided/only-woman-questionnaire.png)
+![Screenshot](/assets/images/blogs/nfhs-one-sided/only-woman-questionnaire.png)
 
 *Source:* Page 493 of [this doc](https://dhsprogram.com/pubs/pdf/FRIND3/FRIND3-Vol1%5BOct-17-2008%5D.pdf){:target="_blank"}
 
@@ -42,28 +42,28 @@ These additional questions in women's questionnaire go into detail, probing whet
 In fact, even in today's [NFHS-6 questionnaire](http://nfhsiips.in/nfhsnew/nfhsuser/questioner.php){:target="_blank"}, we could see the visible absence of these questions in men's questionnaire.  Here are these questions 👇
 
 #### Question 1105
-![](/assets/images/blogs/nfhs-one-sided/1105.jpg)
+![Question 1105](/assets/images/blogs/nfhs-one-sided/1105.jpg)
 
 #### Question 1106
-![](/assets/images/blogs/nfhs-one-sided/1106.png)
+![Question 1106](/assets/images/blogs/nfhs-one-sided/1106.png)
 
 #### Question 1107
-![](/assets/images/blogs/nfhs-one-sided/1107.png)
+![Question 1107](/assets/images/blogs/nfhs-one-sided/1107.png)
 
 #### Question 1110
-![](/assets/images/blogs/nfhs-one-sided/1110.png)
+![Question 1110](/assets/images/blogs/nfhs-one-sided/1110.png)
 
 #### Questions 1111-1115
-![](/assets/images/blogs/nfhs-one-sided/1111.png)
+![Questions 1111-1115](/assets/images/blogs/nfhs-one-sided/1111.png)
 
 #### Questions 1122-1123
-![](/assets/images/blogs/nfhs-one-sided/1122.png)
+![Question 1122-1123](/assets/images/blogs/nfhs-one-sided/1122.png)
 
 #### Questions 1125-1127
-![](/assets/images/blogs/nfhs-one-sided/1125.png)
+![Questions 1125-1127](/assets/images/blogs/nfhs-one-sided/1125.png)
 
 #### Question 1137
-![](/assets/images/blogs/nfhs-one-sided/1137.png)
+![Question 1137](/assets/images/blogs/nfhs-one-sided/1137.png)
 
 ### But, what's the problem here?
 
@@ -79,7 +79,7 @@ Why did they choose not to ask these questions to men?  Did they did not want to
 
 Now, let's zoom out and see who exactly funded the NFHS-3, which added this sneaky module of questions.
 
-![](/assets/images/blogs/nfhs-one-sided/sponsors.png)
+![Sponsors](/assets/images/blogs/nfhs-one-sided/sponsors.png)
 
 [Here](https://nfhsiips.in/nfhsuser/nfhs3.php){:target="_blank"} is the web page that lists this info.
 
