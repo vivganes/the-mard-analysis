@@ -206,7 +206,7 @@ For the easily-irritated, here is a simpler version:
 
 1. Atul was in pain due to his wife's bad behavior 
 2. Also, his wife used the child as a weapon
-2. This led to Atul's su***de 
+2. This led to Atul's suicide 
 3. And, SURPRISE! This is exactly what victim "women" go through all the time.
 
 Eh? 😕

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Did they just Throw Imagined Data at the Public?"
+title:  "Did they just throw Imagined Data at the Public?"
 author: vivek
 categories: [ Atul Subhash, domestic violence, men's rights, NFHS, NCRB ]
 image: assets/images/blogs/throw-data-dv/cover.jpg
