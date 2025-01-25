@@ -2,7 +2,7 @@
 layout: post
 title:  "What drove 1.2 Lakh Indian men to Suicide in 2022? - A Research"
 author: vivek
-categories: [ men's rights, suicide, ncrb, Atul Subhash]
+categories: [ men's rights, suicide, NCRB, Atul Subhash]
 image: assets/images/blogs/men-suicides-2022/cover.jpg
 featured: true
 toc: true

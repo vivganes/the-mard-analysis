@@ -2,7 +2,7 @@
 layout: post
 title:  "The Feminist Call for a Nuanced Debate about Atul Subhash - A PsyOp?"
 author: vivek
-categories: [ Atul Subhash, domestic violence, lancet, ]
+categories: [ Atul Subhash, domestic violence, lancet ]
 image: assets/images/blogs/no-nuance/cover.jpg
 beforetoc: "You must have seen feminists quoting The News Minute article titled 'Atul Subhash’s suicide must not be a no-nuance men versus women debate'"
 toc: true
