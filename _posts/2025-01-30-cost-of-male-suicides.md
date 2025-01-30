@@ -8,6 +8,7 @@ featured: true
 beforetoc: "This post attempts to present the male suicide data from an important angle, the financial one."
 toc: true
 ---
+**TLDR:** Here is the final number - ₹11,15,97,53,69,529.16
 
 You must have seen some shocking statistics about Indian male suicides here like:
 
