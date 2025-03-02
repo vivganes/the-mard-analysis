@@ -125,7 +125,7 @@ Given the stark disparity in costs outlined above, a natural question arises: **
 
 Men, on the other hand, are burdened with heavy financial, emotional, and social costs from the moment a 498A complaint is filed. So why wouldn’t women simply let the case run its full course to maximize their advantages?
 
-## Is settlement as a tool for extortion?
+## Is settlement a tool for extortion?
 
 The answer lies in the dynamics of settlement itself, which often reveals a troubling pattern: **settlement as a tool for extortion.** For women, the decision to settle isn’t necessarily about avoiding losses—since they incur almost none—but about capitalizing on the immense pressure the legal process places on men. 
 
