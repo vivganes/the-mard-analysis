@@ -4,7 +4,6 @@ title:  The Strength and Fragility of Indian Fatherhood
 author: vivek
 categories: [ Atul Subhash, Father's rights, Parental alienation ]
 image: assets/images/blogs/fatherhood/cover.jpg
-featured: true
 ---
 
 A child is a man's biggest strength. And, also the biggest weakness!
